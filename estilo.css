@@ -1,0 +1,194 @@
+@font-face {
+    font-family: Cyberpunk;
+    src: url(Cyberpunk.otf);
+}
+
+@font-face {
+    font-family: Cyberpunk2;
+    src: url(Cyberpunk2.ttf);
+}
+
+@font-face {
+    font-family: Cyberpunk3;
+    src: url(GlitchGoblin-2O87v.ttf);
+}
+
+@font-face {
+    font-family: Cyberpunk4;
+    src: url(CyberwayRiders-lg97d.ttf);
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+
+.navbar {
+    background-color: #0a0a0a;
+}
+
+.navbar a {
+    font-family: Cyberpunk3;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.jumbotron {
+    background-color: #e9ecef;
+    padding: 10px;
+    margin-bottom: 0;
+}
+
+.jumbotron h1 {
+    color: #333;
+    font-size: 40px;
+    margin-bottom: 20px;
+    text-align: justify;
+    font-family: Cyberpunk2;
+}
+
+.jumbotron p {
+    color: #ee1111;
+    font-size: 20px;
+    text-align: center;
+}
+
+.container {
+    margin-top: 40px;
+}
+
+.container h2 {
+    color: yellow;
+    font-size: 30px;
+    margin-bottom: 20px;
+    background-color: black;
+}
+
+.container p {
+    margin-bottom: 20px;
+}
+
+footer {
+    background-color: #343a40;
+    color: #fff;
+    padding: 20px 0;
+}
+
+footer p {
+    font-size: 10px;
+}
+
+.navbar a {
+    color: white;
+}
+
+.dropdown-menu {
+    background-color: black;
+}
+
+.dropdown-menu li :hover {
+    background-color: black;
+    color: red;
+}
+
+h2 {
+    font-family: Cyberpunk;
+}
+
+.col-md-6 li {
+    font-family: Cyberpunk;
+}
+
+#meio3 p1 {
+    font-family: Cyberpunk;
+    font-size: 20px;
+}
+
+#meio4 p {
+    font-style: italic;
+}
+
+h5 {
+    font-family: Cyberpunk3;
+}
+
+body {
+    background-image: url(Background.jpg);
+}
+
+#meio .btn.btn-primary {
+    background-color: black;
+}
+
+#meio a {
+    color: yellow;
+}
+
+#color {
+    background-color: #0a0a0a;
+}
+
+#produtos h5 {
+    color: yellow;
+    background-color: black;
+}
+
+#produtos .navbar-nav a {
+    color: white;
+}
+
+#produtos .dropdown-menu li :hover {
+    background-color: black;
+    color: red;
+}
+
+#login button {
+    font-family: Cyberpunk2;
+}
+
+.espaco {
+    margin-top:150px;
+    height:50vh;
+}
+.espaco a{
+    text-decoration: none;
+    color: black;
+}
+.espaco video {
+    bottom: 0;
+    display: block;
+    height: 100vh;
+    left: 0;
+    object-fit: cover;
+    object-position: center center;
+    position: absolute;
+    right: 0;
+    top: 60px;
+    transform: translateZ(0);
+    width: 100%;
+    z-index: -1;
+}
+
+#login .card{
+    background-color: transparent;
+    border: transparent;
+}
+
+.espaco h2{
+    color: red;
+}
+
+path{
+    color: red;
+}
+
+#login .btn{
+ align-content: center;
+ align-items: center;
+}
+
+h1{
+    margin-bottom: 0;
+}
